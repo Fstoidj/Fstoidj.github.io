@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Dariush Ghaemi's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+
