@@ -23,9 +23,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
-theme: jekyll-theme-minimal
-title: Dariush Ghaemi's homepage
-description: Bookmark this to keep an eye on my project updates!
+
 
 navigation_header:
 - title: Home
